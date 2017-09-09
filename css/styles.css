@@ -1,0 +1,1730 @@
+a {cursor: pointer;}
+    li {cursor: pointer;}
+    a:link {
+        color:#4f4f4f;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color:#4f4f4f;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color:#b87132;  
+        text-decoration: none;
+    }
+
+    a:active {
+        color:#4f4f4f;
+        text-decoration: none;
+    }
+
+.menu ._text-10:hover,
+.menu ._text-12:hover,
+.menu ._text-17:hover,
+.menu ._text-18:hover,
+.menu ._text-32:hover {
+  color: rgb(184, 113, 50);
+}
+
+.menu ._text-10:active,
+.menu ._text-12:active,
+.menu ._text-17:active,
+.menu ._text-18:active,
+.menu ._text-1:active,
+.menu ._text-32:active,
+.menu ._text-9:active {
+  float: right;
+  color: #b87132;
+}
+
+.menu ._text-10:focus,
+.menu ._text-12:focus,
+.menu ._text-17:focus,
+.menu ._text-18:focus,
+.menu ._text-1:focus,
+.menu ._text-20:active,
+.menu ._text-20:focus,
+.menu ._text-25:active,
+.menu ._text-25:focus,
+.menu ._text-27:active,
+.menu ._text-27:focus,
+.menu ._text-32:focus,
+.menu ._text-33:active,
+.menu ._text-33:focus,
+.menu ._text-34:active,
+.menu ._text-34:focus,
+.menu ._text-49:active,
+.menu ._text-49:focus,
+.menu ._text-4:active,
+.menu ._text-4:focus,
+.menu ._text-9:focus {
+  float: right;
+}
+
+.disclaimer-1:active,
+.disclaimer-1:focus,
+.disclaimer-1:hover,
+.disclaimer-2:active,
+.disclaimer-2:focus,
+.disclaimer-2:hover,
+.disclaimer-3:active,
+.disclaimer-3:focus,
+.disclaimer-3:hover,
+.disclaimer-5:active,
+.disclaimer-5:focus,
+.disclaimer-5:hover,
+.disclaimer-6:active,
+.disclaimer-6:focus,
+.disclaimer-6:hover,
+.disclaimer-7:active,
+.disclaimer-7:focus,
+.disclaimer-7:hover {
+  float: center;
+}
+
+body {
+  background-color: rgb(228, 228, 228);
+  font: 400 0.75em/1.45 Verdana, Helvetica, sans-serif;
+  color: #4f4f4f;
+}
+
+.contact {
+  line-height: 1.5;
+  color: #4f4f4f;
+}
+
+.index {
+  line-height: 1.38;
+  color: rgb(79, 79, 79);
+}
+
+.management-team,
+.our-offering,
+.our-philosophy,
+.why-switzerland {
+  color: #4f4f4f;
+}
+
+.contact-text .content-text {
+  margin-top: 20px;
+  padding-bottom: 15px;
+  font-size: 1em;
+  text-align: justify;
+  color: #4f4f4f;
+}
+
+.content {
+  width: 100%;
+  background-color: #f8f8f8;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.content-text {
+  float: left;
+}
+
+.content-text-10 p,
+.content-text-12 p,
+.content-text-13 p,
+.content-text-16 p,
+.content-text-19 p,
+.content-text-2 p,
+.content-text-20 p,
+.content-text-3 p,
+.content-text-7 p,
+.content-text-8 p {
+  margin-bottom: 1em;
+}
+
+.footer {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.footer .disclaimer {
+  display: block;
+  width: 100%;
+  margin: 3px auto 0;
+  font-size: 0.833em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(79, 79, 79);
+}
+
+.footer .disclaimer:hover {
+  color: rgb(184, 113, 50);
+}
+
+.footer-text {
+  width: 100%;
+  margin: 0 auto;
+  font-size: 0.833em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(79, 79, 79);
+  text-align: center;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.image-person1,
+.image-person2,
+.image-person3,
+.image-person4 {
+  display: block;
+  float: left;
+  width: 100%;
+  height: auto;
+  margin-top: 4px;
+  overflow: hidden;
+}
+
+.language {
+  position: relative;
+  float: right;
+  width: 87px;
+}
+
+.language-text {
+  float: right;
+  width: 100%;
+  min-height: 24px;
+  font-size: 1.083em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: right;
+  color: rgb(79, 79, 79);
+}
+
+.menu {
+  width: 649px;
+  margin: 130px auto 0;
+}
+
+.person1 {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.person2 {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.person3,
+.person4 {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.person1-image,
+.person2-image,
+.person3-image,
+.person4-image {
+  float: left;
+  width: 180px;
+}
+
+.person1-text,
+.person2-text,
+.person3-text,
+.person4-text {
+  float: left;
+  width: 76.4%;
+  padding-left: 30px;
+}
+
+.content-text-10,
+.content-text-11,
+.content-text-12,
+.content-text-13,
+.content-text-14,
+.content-text-18,
+.content-text-19,
+.content-text-8,
+.content-text-9,
+.person1-text .content-text,
+.person2-text .content-text,
+.person3-text .content-text,
+.person4-text .content-text,
+.why-switzerland-text .content-text {
+  clear: both;
+  width: 100%;
+  margin-top: 5px;
+  padding-bottom: 20px;
+  font-size: 1em;
+  text-align: justify;
+  color: #4f4f4f;
+}
+
+.signature-andre-lehmann {
+  display: block;
+  float: right;
+  width: 240px;
+  height: auto;
+  overflow: hidden;
+}
+
+.signature-marat-khabiev {
+  display: block;
+  float: left;
+  width: 240px;
+  height: auto;
+  overflow: hidden;
+}
+
+.signatures {
+  position: relative;
+  float: left;
+  clear: both;
+  width: 600px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+}
+
+.site {
+  position: relative;
+  width: 900px;
+  margin: 20px auto 0;
+}
+
+.slider-container {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 20px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.image-1,
+.image-3,
+.slider-container .image {
+  float: left;
+}
+
+.stats {
+  float: left;
+}
+
+.stats .stats {
+  display: block;
+  width: 351px;
+  height: auto;
+  overflow: hidden;
+}
+
+.sub-menu {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.sub-menu .sub-menu {
+  width: 100%;
+  font-size: 1em;
+  text-align: justify;
+  color: #4f4f4f;
+}
+
+.tauro-investments-logo {
+  display: block;
+  float: left;
+}
+
+.tauro-investments-logo .tauro-investments-logo {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.watermark {
+  display: block;
+  position: fixed;
+  bottom: -5px;
+  right: -2%;
+  width: 15%;
+  height: auto;
+  overflow: hidden;
+}
+
+.contact-text,
+.why-switzerland-text {
+  float: left;
+  clear: both;
+  width: 85%;
+  margin: 30px 0 0 5%;
+  padding-bottom: 10px;
+}
+
+._text {
+  line-height: 1.38;
+}
+
+.menu ._container {
+  float: left;
+  height: 22px;
+}
+
+.menu ._text {
+  display: block;
+  float: right;
+  width: 100%;
+  font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+  font-size: 1.333em;
+}
+
+.menu ._text:hover {
+  float: right;
+}
+
+.person1-text ._text,
+.person2-text ._text,
+.person3-text ._text,
+.person4-text ._text {
+  float: left;
+  width: 100%;
+  color: #4f4f4f;
+}
+
+.contact-text ._text,
+.why-switzerland-text ._text {
+  float: left;
+  color: #4f4f4f;
+}
+
+.content-1 {
+  margin: 10px auto 0;
+}
+
+.content-3 {
+  float: left;
+  clear: both;
+  margin-top: 10px;
+}
+
+.content-2,
+.content-4 {
+  float: left;
+  clear: both;
+  margin-top: 20px;
+}
+
+.content-5,
+.content-6 {
+  margin: 20px auto 0;
+}
+
+.content-text-1 {
+  position: relative;
+  clear: both;
+  width: 85%;
+  margin: 30px 0 0 5%;
+  padding-bottom: 30px;
+}
+
+.content-text-15 {
+  position: relative;
+  clear: both;
+  z-index: 7;
+  width: 230px;
+  padding-top: 1px;
+}
+
+.content-text-17 {
+  width: 250px;
+}
+
+.content-text-21 {
+  width: 230px;
+}
+
+.content-text-4 {
+  width: 85%;
+  margin: 30px 0 0 5%;
+  padding-bottom: 10px;
+}
+
+.content-text-5,
+.content-text-6 {
+  clear: both;
+  width: 85%;
+  margin: 30px 0 0 5%;
+  padding-bottom: 10px;
+}
+
+.footer-1,
+.footer-2,
+.footer-3,
+.footer-5,
+.footer-6,
+.footer-7 {
+  position: relative;
+}
+
+.image-2,
+.image-4,
+.image-5 {
+  margin: 0 auto;
+}
+
+.language-1 {
+  z-index: 53;
+}
+
+.language-2 {
+  z-index: 32;
+}
+
+.language-3 {
+  z-index: 30;
+}
+
+.language-4 {
+  z-index: 29;
+}
+
+.language-5,
+.language-6 {
+  z-index: 27;
+}
+
+.language-7 {
+  z-index: 21;
+}
+
+.site-1 {
+  z-index: 54;
+}
+
+.site-2 {
+  z-index: 33;
+}
+
+.site-3 {
+  z-index: 31;
+}
+
+.site-4 {
+  z-index: 30;
+}
+
+.site-5,
+.site-6 {
+  z-index: 28;
+}
+
+.site-7 {
+  z-index: 22;
+}
+
+.stats-1 {
+  clear: both;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.sub-menu-1,
+.sub-menu-3 {
+  width: 89%;
+  margin-top: 5px;
+}
+
+.tauro-investments-logo-1 {
+  position: relative;
+  z-index: 51;
+  width: 265px;
+}
+
+.tauro-investments-logo-10,
+.tauro-investments-logo-9 {
+  position: relative;
+  z-index: 25;
+  width: 265px;
+}
+
+.tauro-investments-logo-13 {
+  position: relative;
+  z-index: 19;
+  width: 265px;
+}
+
+.tauro-investments-logo-3 {
+  position: relative;
+  z-index: 30;
+  width: 265px;
+}
+
+.tauro-investments-logo-5 {
+  position: relative;
+  z-index: 28;
+  width: 265px;
+}
+
+.tauro-investments-logo-7 {
+  position: relative;
+  z-index: 27;
+  width: 265px;
+}
+
+.content-text ._text-36,
+.content-text ._text-42,
+.content-text ._text-43 {
+  float: left;
+  font-size: 1.667em;
+  color: #4f4f4f;
+}
+
+.content-text ._text-41,
+.content-text ._text-44,
+.content-text ._text-47 {
+  float: left;
+  clear: both;
+  margin-top: 15px;
+  font-size: 1.333em;
+  color: #4f4f4f;
+}
+
+.content-text ._text-46,
+.content-text ._text-48,
+.content-text ._text-52,
+.content-text ._text-53,
+.content-text ._text-58,
+.content-text ._text-59 {
+  float: left;
+  clear: both;
+  font-size: 1.333em;
+  color: #4f4f4f;
+}
+
+.content-text ._text-6 {
+  float: left;
+  width: 100%;
+  font-size: 1.667em;
+  color: #4f4f4f;
+}
+
+.menu ._container-1,
+.menu ._container-13,
+.menu ._container-14,
+.menu ._container-27,
+.menu ._container-6,
+.menu ._container-7,
+.menu ._container-9 {
+  width: 70px;
+}
+
+.menu ._container-10,
+.menu ._container-12,
+.menu ._container-18,
+.menu ._container-19,
+.menu ._container-2,
+.menu ._container-30,
+.menu ._container-8 {
+  width: 95px;
+  margin-left: 45px;
+}
+
+.menu ._container-11,
+.menu ._container-15,
+.menu ._container-17,
+.menu ._container-23,
+.menu ._container-24,
+.menu ._container-3,
+.menu ._container-33 {
+  width: 124px;
+  margin-left: 45px;
+}
+
+.menu ._container-16,
+.menu ._container-20,
+.menu ._container-22,
+.menu ._container-28,
+.menu ._container-29,
+.menu ._container-34,
+.menu ._container-4 {
+  width: 121px;
+  margin-left: 45px;
+}
+
+.menu ._container-21,
+.menu ._container-25,
+.menu ._container-26,
+.menu ._container-31,
+.menu ._container-32,
+.menu ._container-35,
+.menu ._container-5 {
+  width: 59px;
+  margin-left: 45px;
+}
+
+.menu ._text-1,
+.menu ._text-15,
+.menu ._text-29,
+.menu ._text-39,
+.menu ._text-9 {
+  color: #b87132;
+}
+
+.menu ._text-10,
+.menu ._text-11,
+.menu ._text-12,
+.menu ._text-13,
+.menu ._text-14,
+.menu ._text-17,
+.menu ._text-18,
+.menu ._text-19,
+.menu ._text-2,
+.menu ._text-20,
+.menu ._text-22,
+.menu ._text-23,
+.menu ._text-24,
+.menu ._text-25,
+.menu ._text-26,
+.menu ._text-27,
+.menu ._text-28,
+.menu ._text-3,
+.menu ._text-30,
+.menu ._text-31,
+.menu ._text-32,
+.menu ._text-33,
+.menu ._text-34,
+.menu ._text-37,
+.menu ._text-4,
+.menu ._text-40,
+.menu ._text-45,
+.menu ._text-49,
+.menu ._text-5,
+.menu ._text-56 {
+  font-weight: 400;
+  color: #4f4f4f;
+}
+
+.menu ._text-11:hover,
+.menu ._text-13:hover,
+.menu ._text-14:hover,
+.menu ._text-15:hover,
+.menu ._text-19:hover,
+.menu ._text-20:hover,
+.menu ._text-22:hover,
+.menu ._text-23:hover,
+.menu ._text-24:hover,
+.menu ._text-25:hover,
+.menu ._text-26:hover,
+.menu ._text-27:hover,
+.menu ._text-28:hover,
+.menu ._text-29:hover,
+.menu ._text-2:hover,
+.menu ._text-30:hover,
+.menu ._text-31:hover,
+.menu ._text-33:hover,
+.menu ._text-34:hover,
+.menu ._text-37:hover,
+.menu ._text-39:hover,
+.menu ._text-3:hover,
+.menu ._text-40:hover,
+.menu ._text-45:hover,
+.menu ._text-49:hover,
+.menu ._text-4:hover,
+.menu ._text-56:hover,
+.menu ._text-5:hover {
+  color: rgb(181, 117, 63);
+}
+
+.person1-text ._text-7,
+.person2-text ._text-16,
+.person3-text ._text-35,
+.person4-text ._text-57 {
+  font-size: 1.333em;
+}
+
+.person1-text ._text-8,
+.person2-text ._text-21,
+.person3-text ._text-38,
+.person4-text ._text-60 {
+  clear: both;
+  font-style: italic;
+  font-size: 1.083em;
+}
+
+.site ._container-36,
+.site ._container-37,
+.site ._container-38,
+.site ._container-39,
+.site ._container-40,
+.site ._container-41,
+.site ._container-42 {
+  float: right;
+  clear: both;
+  width: 100%;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+
+.contact-text ._text-50,
+.why-switzerland-text ._text-51 {
+  font-size: 1.667em;
+}
+
+.contact-text ._text-54,
+.why-switzerland-text ._text-55 {
+  clear: both;
+  margin-top: 15px;
+  font-size: 1.333em;
+}
+
+.content-text-16 span {
+  font-size: NaNem;
+  font-weight: 700;
+  color: rgb(79, 79, 79);
+}
+
+.content-text-15 strong,
+.content-text-17 span,
+.content-text-17 strong,
+.content-text-21 strong {
+  font-weight: 700;
+}
+
+.language-text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  color: inherit;
+}
+
+.language-text a:hover,
+.language-text span {
+  color: rgb(181, 117, 63);
+}
+
+.sub-menu a {
+  color: rgb(79, 79, 79);
+}
+
+.sub-menu a:hover,
+.sub-menu span,
+.sub-menu-2 span:hover {
+  color: rgb(184, 113, 50);
+}
+
+@media(max-width: 1150px) {
+  .disclaimer-1:active,
+  .disclaimer-1:focus,
+  .disclaimer-1:hover,
+  .disclaimer-2:active,
+  .disclaimer-2:focus,
+  .disclaimer-2:hover,
+  .disclaimer-3:active,
+  .disclaimer-3:focus,
+  .disclaimer-3:hover,
+  .disclaimer-5:active,
+  .disclaimer-5:focus,
+  .disclaimer-5:hover,
+  .disclaimer-6:active,
+  .disclaimer-6:focus,
+  .disclaimer-6:hover,
+  .disclaimer-7:active,
+  .disclaimer-7:focus,
+  .disclaimer-7:hover {
+    float: center;
+  }
+
+  .contact-text .content-text {
+    margin-top: 15px;
+  }
+
+  .content-text .person2 {
+    position: relative;
+  }
+
+  .person1 .person1-text,
+  .person2 .person2-text,
+  .person3 .person3-text,
+  .person4 .person4-text {
+    width: 75%;
+  }
+
+  .site,
+  .site .language {
+    position: relative;
+  }
+
+  .content .image,
+  .person1-image .image-person1,
+  .person2-image .image-person2,
+  .person3-image .image-person3,
+  .person4-image .image-person4,
+  .signatures .signature-andre-lehmann,
+  .signatures .signature-marat-khabiev,
+  .slider-container .image,
+  .stats .stats,
+  .tauro-investments-logo .tauro-investments-logo {
+    height: auto;
+  }
+
+  .watermark {
+    display: none;
+    height: auto;
+  }
+
+  .contact-text .content-text-15 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .site .language-1 {
+    z-index: 53;
+  }
+
+  .site .language-2 {
+    z-index: 32;
+  }
+
+  .site .language-4 {
+    z-index: 29;
+  }
+
+  .site .language-5,
+  .site .language-6 {
+    z-index: 27;
+  }
+
+  .site .language-7 {
+    z-index: 21;
+  }
+
+  .site .tauro-investments-logo-1 {
+    position: relative;
+    z-index: 51;
+  }
+
+  .site .tauro-investments-logo-10,
+  .site .tauro-investments-logo-9 {
+    position: relative;
+    z-index: 25;
+  }
+
+  .site .tauro-investments-logo-13 {
+    position: relative;
+    z-index: 19;
+  }
+
+  .site .tauro-investments-logo-3 {
+    position: relative;
+    z-index: 30;
+  }
+
+  .site .tauro-investments-logo-5 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .site .tauro-investments-logo-7 {
+    position: relative;
+    z-index: 27;
+  }
+
+  .site-1 {
+    z-index: 54;
+  }
+
+  .site-2 {
+    z-index: 33;
+  }
+
+  .site-3 {
+    z-index: 31;
+  }
+
+  .site .language-3,
+  .site-4 {
+    z-index: 30;
+  }
+
+  .site-5,
+  .site-6 {
+    z-index: 28;
+  }
+
+  .site-7 {
+    z-index: 22;
+  }
+
+  .why-switzerland-text .stats-1 {
+    padding-bottom: 30px;
+  }
+
+  .menu ._container-10 {
+    margin-left: 44px;
+  }
+
+  .content-text-16 span {
+    font-size: 0.917em;
+  }
+}
+
+@media(max-width: 960px) {
+  .disclaimer-1:active,
+  .disclaimer-1:focus,
+  .disclaimer-1:hover,
+  .disclaimer-2:active,
+  .disclaimer-2:focus,
+  .disclaimer-2:hover,
+  .disclaimer-3:active,
+  .disclaimer-3:focus,
+  .disclaimer-3:hover,
+  .disclaimer-5:active,
+  .disclaimer-5:focus,
+  .disclaimer-5:hover,
+  .disclaimer-6:active,
+  .disclaimer-6:focus,
+  .disclaimer-6:hover,
+  .disclaimer-7:active,
+  .disclaimer-7:focus,
+  .disclaimer-7:hover {
+    float: center;
+  }
+
+  body {
+    font-size: 0.75em;
+  }
+
+  .content .contact-text,
+  .content .content-text-1,
+  .content .content-text-4,
+  .content .content-text-5,
+  .content .content-text-6,
+  .content .why-switzerland-text {
+    margin-left: 4.99494%;
+  }
+
+  .person1 .person1-text,
+  .person2 .person2-text,
+  .person3 .person3-text,
+  .person4 .person4-text {
+    width: 71%;
+  }
+
+  .site {
+    position: relative;
+    width: 90%;
+  }
+
+  .site .language {
+    position: relative;
+  }
+
+  .slider-container .image {
+    float: none;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .content .image,
+  .person1-image .image-person1,
+  .person2-image .image-person2,
+  .person3-image .image-person3,
+  .person4-image .image-person4,
+  .signatures .signature-andre-lehmann,
+  .signatures .signature-marat-khabiev,
+  .stats .stats,
+  .tauro-investments-logo .tauro-investments-logo,
+  .watermark {
+    height: auto;
+  }
+
+  .contact-text .content-text-15 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .contact-text .content-text-17,
+  .contact-text .content-text-21 {
+    clear: both;
+    margin-top: 0;
+  }
+
+  .site .content-6 {
+    float: left;
+    clear: both;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .language-1 {
+    z-index: 53;
+  }
+
+  .site .language-2 {
+    z-index: 32;
+  }
+
+  .site .language-3 {
+    z-index: 30;
+  }
+
+  .site .language-4 {
+    z-index: 29;
+  }
+
+  .site .language-5,
+  .site .language-6 {
+    z-index: 27;
+  }
+
+  .site .language-7 {
+    z-index: 21;
+  }
+
+  .site .sub-menu-1,
+  .site .sub-menu-3 {
+    width: 100%;
+  }
+
+  .site .tauro-investments-logo-1 {
+    position: relative;
+    z-index: 51;
+  }
+
+  .site .tauro-investments-logo-10,
+  .site .tauro-investments-logo-9 {
+    position: relative;
+    z-index: 25;
+  }
+
+  .site .tauro-investments-logo-13 {
+    position: relative;
+    z-index: 19;
+  }
+
+  .site .tauro-investments-logo-3 {
+    position: relative;
+    z-index: 30;
+  }
+
+  .site .tauro-investments-logo-5 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .site .tauro-investments-logo-7 {
+    position: relative;
+    z-index: 27;
+  }
+
+  .site-1 {
+    z-index: 54;
+  }
+
+  .site-2 {
+    z-index: 33;
+  }
+
+  .site-3 {
+    float: left;
+    z-index: 31;
+    margin-right: 0;
+    margin-left: 5%;
+  }
+
+  .site-4 {
+    float: left;
+    z-index: 30;
+    margin-right: 0;
+    margin-left: 5%;
+  }
+
+  .site-5 {
+    float: left;
+    z-index: 28;
+    margin-right: 0;
+    margin-left: 5%;
+  }
+
+  .site-6 {
+    z-index: 28;
+  }
+
+  .site-7 {
+    z-index: 22;
+  }
+}
+
+@media(max-width: 840px) {
+  .disclaimer-1:active,
+  .disclaimer-1:focus,
+  .disclaimer-1:hover,
+  .disclaimer-2:active,
+  .disclaimer-2:focus,
+  .disclaimer-2:hover,
+  .disclaimer-3:active,
+  .disclaimer-3:focus,
+  .disclaimer-3:hover,
+  .disclaimer-5:active,
+  .disclaimer-5:focus,
+  .disclaimer-5:hover,
+  .disclaimer-6:active,
+  .disclaimer-6:focus,
+  .disclaimer-6:hover,
+  .disclaimer-7:active,
+  .disclaimer-7:focus,
+  .disclaimer-7:hover {
+    float: center;
+  }
+
+  .content .image {
+    height: auto;
+  }
+
+  .content .contact-text,
+  .content .content-text-1,
+  .content .content-text-5,
+  .content .why-switzerland-text {
+    margin-left: 4.99959%;
+  }
+
+  .person1 .person1-text,
+  .person2 .person2-text,
+  .person3 .person3-text,
+  .person4 .person4-text {
+    width: 68%;
+  }
+
+  .site,
+  .site .language {
+    position: relative;
+  }
+
+  .slider-container .image {
+    float: left;
+    height: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .person1-image .image-person1,
+  .person2-image .image-person2,
+  .person3-image .image-person3,
+  .person4-image .image-person4,
+  .signatures .signature-andre-lehmann,
+  .signatures .signature-marat-khabiev,
+  .stats .stats,
+  .tauro-investments-logo .tauro-investments-logo,
+  .watermark {
+    height: auto;
+  }
+
+  .contact-text .content-text-15 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .content .content-text-4,
+  .content .content-text-6 {
+    margin-left: 4.99339%;
+  }
+
+  .footer .disclaimer-1,
+  .footer .disclaimer-2 {
+    margin-top: 13px;
+  }
+
+  .content .image-2,
+  .content .image-5,
+  .footer .footer-text-1,
+  .footer .footer-text-2 {
+    float: left;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .content-1 {
+    float: left;
+    clear: both;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .content-6 {
+    float: none;
+    clear: none;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .site .language-1 {
+    z-index: 53;
+  }
+
+  .site .language-2 {
+    z-index: 32;
+  }
+
+  .site .language-4 {
+    z-index: 29;
+  }
+
+  .site .language-5,
+  .site .language-6 {
+    z-index: 27;
+  }
+
+  .site .language-7 {
+    z-index: 21;
+  }
+
+  .site .tauro-investments-logo-1 {
+    position: relative;
+    z-index: 51;
+  }
+
+  .site .tauro-investments-logo-10,
+  .site .tauro-investments-logo-9 {
+    position: relative;
+    z-index: 25;
+  }
+
+  .site .tauro-investments-logo-13 {
+    position: relative;
+    z-index: 19;
+  }
+
+  .site .tauro-investments-logo-3 {
+    position: relative;
+    z-index: 30;
+  }
+
+  .site .tauro-investments-logo-5 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .site .tauro-investments-logo-7 {
+    position: relative;
+    z-index: 27;
+  }
+
+  .site-1 {
+    z-index: 54;
+  }
+
+  .site-2 {
+    z-index: 33;
+  }
+
+  .site-3 {
+    z-index: 31;
+  }
+
+  .site .language-3,
+  .site-4 {
+    z-index: 30;
+  }
+
+  .site-5,
+  .site-6 {
+    z-index: 28;
+  }
+
+  .site-7 {
+    z-index: 22;
+  }
+
+  .menu ._text-1,
+  .menu ._text-11,
+  .menu ._text-14,
+  .menu ._text-2,
+  .menu ._text-20,
+  .menu ._text-26,
+  .menu ._text-3,
+  .menu ._text-4,
+  .menu ._text-5,
+  .menu ._text-9 {
+    line-height: 1.4;
+  }
+}
+
+@media(max-width: 750px) {
+  .disclaimer-1:active,
+  .disclaimer-1:focus,
+  .disclaimer-1:hover,
+  .disclaimer-2:active,
+  .disclaimer-2:focus,
+  .disclaimer-2:hover,
+  .disclaimer-3:active,
+  .disclaimer-3:focus,
+  .disclaimer-3:hover,
+  .disclaimer-5:active,
+  .disclaimer-5:focus,
+  .disclaimer-5:hover,
+  .disclaimer-6:active,
+  .disclaimer-6:focus,
+  .disclaimer-6:hover,
+  .disclaimer-7:active,
+  .disclaimer-7:focus,
+  .disclaimer-7:hover {
+    float: center;
+  }
+
+  body {
+    font-size: 0.75em;
+  }
+
+  .content .contact-text,
+  .content .content-text-5 {
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 4.99769%;
+  }
+
+  .content .image {
+    height: auto;
+  }
+
+  .content .content-text-4,
+  .content .content-text-6,
+  .content .why-switzerland-text {
+    width: 90%;
+    margin-left: 4.99769%;
+  }
+
+  .content-text .signatures {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .signatures .signature-andre-lehmann {
+    float: left;
+    clear: both;
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .signatures .signature-marat-khabiev {
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .site,
+  .site .language {
+    position: relative;
+  }
+
+  .site .menu {
+    float: right;
+    clear: both;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .content-2,
+  .site .content-4,
+  .site .slider-container {
+    margin-top: 40px;
+  }
+
+  .person1-image .image-person1,
+  .person2-image .image-person2,
+  .person3-image .image-person3,
+  .person4-image .image-person4,
+  .slider-container .image,
+  .stats .stats,
+  .tauro-investments-logo .tauro-investments-logo,
+  .watermark {
+    height: auto;
+  }
+
+  .menu ._container {
+    float: right;
+  }
+
+  .contact-text .content-text-15 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .content .content-text-1 {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .content .image-4 {
+    float: left;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .content-3 {
+    float: right;
+  }
+
+  .site .content-5,
+  .site .content-6 {
+    float: left;
+    clear: both;
+    margin-top: 40px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .language-1 {
+    z-index: 53;
+  }
+
+  .site .language-2 {
+    z-index: 32;
+  }
+
+  .site .language-4 {
+    z-index: 29;
+  }
+
+  .site .language-5,
+  .site .language-6 {
+    z-index: 27;
+  }
+
+  .site .language-7 {
+    z-index: 21;
+  }
+
+  .site .menu-2,
+  .site .menu-3,
+  .site .menu-4,
+  .site .menu-5,
+  .site .menu-6,
+  .site .menu-7 {
+    width: 100%;
+  }
+
+  .site .sub-menu-1,
+  .site .sub-menu-3 {
+    float: left;
+    clear: both;
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .site .tauro-investments-logo-1 {
+    position: relative;
+    z-index: 51;
+    width: 190px;
+  }
+
+  .site .tauro-investments-logo-10,
+  .site .tauro-investments-logo-9 {
+    position: relative;
+    z-index: 25;
+    width: 190px;
+  }
+
+  .site .tauro-investments-logo-13 {
+    position: relative;
+    z-index: 19;
+    width: 190px;
+  }
+
+  .site .tauro-investments-logo-3 {
+    position: relative;
+    z-index: 30;
+    width: 190px;
+  }
+
+  .site .tauro-investments-logo-5 {
+    position: relative;
+    z-index: 28;
+    width: 190px;
+  }
+
+  .site .tauro-investments-logo-7 {
+    position: relative;
+    z-index: 27;
+    width: 190px;
+  }
+
+  .site-1 {
+    z-index: 54;
+  }
+
+  .site-2 {
+    z-index: 33;
+  }
+
+  .site-3 {
+    z-index: 31;
+  }
+
+  .site .language-3,
+  .site-4 {
+    z-index: 30;
+  }
+
+  .site-5,
+  .site-6 {
+    z-index: 28;
+  }
+
+  .site-7 {
+    z-index: 22;
+  }
+
+  .menu ._container-10,
+  .menu ._container-11,
+  .menu ._container-12,
+  .menu ._container-15,
+  .menu ._container-16,
+  .menu ._container-17,
+  .menu ._container-18,
+  .menu ._container-19,
+  .menu ._container-2,
+  .menu ._container-20,
+  .menu ._container-21,
+  .menu ._container-22,
+  .menu ._container-23,
+  .menu ._container-24,
+  .menu ._container-25,
+  .menu ._container-26,
+  .menu ._container-28,
+  .menu ._container-29,
+  .menu ._container-3,
+  .menu ._container-30,
+  .menu ._container-31,
+  .menu ._container-32,
+  .menu ._container-33,
+  .menu ._container-34,
+  .menu ._container-35,
+  .menu ._container-4,
+  .menu ._container-5,
+  .menu ._container-8 {
+    clear: both;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+}
+
+@media(max-width: 695px) {
+  .person1 .person1-text,
+  .person2 .person2-text,
+  .person3 .person3-text,
+  .person4 .person4-text {
+    clear: both;
+    width: 100%;
+    margin-top: 10px;
+    padding-left: 0;
+  }
+
+  .content .image-1,
+  .person1-image .image-person1,
+  .person2-image .image-person2,
+  .person3-image .image-person3,
+  .person4-image .image-person4,
+  .tauro-investments-logo .tauro-investments-logo-2,
+  .watermark-5 {
+    height: auto;
+  }
+
+  .content .content-text-1 {
+    margin-left: 4.99351%;
+    padding-bottom: 10px;
+  }
+
+  .site .language-1 {
+    position: relative;
+    z-index: 53;
+  }
+
+  .site .tauro-investments-logo-1 {
+    position: relative;
+    z-index: 51;
+  }
+
+  .site-1 {
+    position: relative;
+    z-index: 54;
+  }
+}
+
+@media(max-width: 435px) {
+  .disclaimer-6:active,
+  .disclaimer-6:focus,
+  .disclaimer-6:hover,
+  .disclaimer-7:active,
+  .disclaimer-7:focus,
+  .disclaimer-7:hover {
+    float: center;
+  }
+
+  body {
+    font-size: 0.75em;
+  }
+
+  .content .contact-text {
+    margin-left: 4.99681%;
+  }
+
+  .content .why-switzerland-text {
+    margin-top: 20px;
+    margin-left: 5.0008%;
+  }
+
+  .stats .stats {
+    width: 100%;
+    height: auto;
+  }
+
+  .contact-text .content-text-15 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .site .language-5,
+  .site .language-6 {
+    position: relative;
+    z-index: 27;
+  }
+
+  .site .tauro-investments-logo-10,
+  .site .tauro-investments-logo-9 {
+    position: relative;
+    z-index: 25;
+  }
+
+  .site-5,
+  .site-6 {
+    position: relative;
+    z-index: 28;
+  }
+
+  .content .image-4,
+  .content .image-5,
+  .tauro-investments-logo .tauro-investments-logo-11,
+  .tauro-investments-logo .tauro-investments-logo-12,
+  .watermark-6,
+  .watermark-7 {
+    height: auto;
+  }
+
+  .why-switzerland-text .stats-1 {
+    padding-bottom: 20px;
+  }
+}
